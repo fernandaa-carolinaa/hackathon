@@ -1,0 +1,260 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: tahoma;
+    font-size: 18px;
+    color: aliceblue;
+    scroll-behavior:smooth;
+}
+.image{
+
+    width: 100%;
+
+    height: 200px;
+
+    display: flex;
+
+    flex-direction: row;
+
+}
+
+.agatha2{
+
+    width: 20%;
+
+    height: 95%;
+
+    position: relative;
+
+    top: 25px;
+
+}
+
+.textoA{
+
+    width: 100%;
+
+    height: 95%;
+
+    position: relative;
+
+    left: 10px;
+
+}
+
+.fernanda{
+
+    width: 20%;
+
+    height: 95%;
+
+    position: relative;
+
+    top: 25px;
+
+}
+
+.textoB{
+
+    width: 100%;
+
+    height: 95%;
+
+    position: relative;
+
+    left: 10px;
+
+}
+
+.thi{
+
+    width: 20%;
+
+    height: 95%;
+
+    position: relative;
+
+    top: 25px;
+
+}
+
+.textoC{
+
+    width: 100%;
+
+    height: 95%;
+
+    position: relative;
+
+    left: 10px;
+
+}
+
+.geovana{
+
+    width: 20%;
+
+    height: 95%;
+
+    position: relative;
+
+    top: 25px;  
+
+}
+
+.textoD{
+
+    width: 100%;
+
+    height: 95%;
+
+    position: relative;
+
+    left: 10px;
+
+}
+
+.container{
+
+    width: 100%;
+
+    height: 95%;
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    justify-content: center;
+
+    padding: 10px;
+
+}
+
+
+
+
+.linha{
+
+    display: flex;
+
+    flex-direction: row;
+
+    width: 100%;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+}
+
+
+
+
+.pessoa{
+
+    display: flex;
+
+    flex-direction: row;
+
+    flex-grow: 1;
+
+    width: 200px;
+
+}
+
+
+
+
+.pessoa p{
+
+   padding: 5px;
+
+   color: #000000;
+
+   text-align: justify;
+
+}
+
+
+
+
+
+
+.textoE{
+
+    width: 100%;
+
+    height: 95%;
+
+    position: relative;
+
+    left: 10px;
+
+}
+
+.samuel{
+
+    width: 20%;
+
+    height: 95%;
+
+    position: relative;
+
+    top: 25px;
+
+}
+
+.textoF{
+
+    width: 100%;
+
+    height: 95%;
+
+    position: relative;
+
+    left: 10px;
+
+}
+nav.index{
+    background-color: #2F4073;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+img.logo{
+    width: 80px;
+    height: 80px;
+}
+ul{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    align-items: center;
+}
+li{
+    margin: 10px auto;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: #b4bedd;
+}
+.material-symbols-outlined{
+    position: relative;
+    top: 5px;
+    right: 5px;
+}
+.material-symbols-outlined:hover{
+    color: #b4bedd;
+}
+body{
+    background-color: #D5DCF2;
+}
